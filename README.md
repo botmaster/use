@@ -17,11 +17,10 @@ Things I am using
 
 ## MacOS Productivity
 
-- [Raycast](https://raycast.com/) - Spotlight replacement
+- [Raycast](https://raycast.com/) - Spotlight replacement and window manager 👌
 - [CleanShot X](https://getkap.co/) - Screen capture tool
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control the monitor in macOS
 - [Deepl](https://www.deepl.com/fr/translator) - Translation tool
-- [Magnet](https://apps.apple.com/fr/app/magnet/id441258766?mt=12) - Window manager
 
 
 ## Design / Social Media
