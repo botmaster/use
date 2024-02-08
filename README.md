@@ -30,7 +30,7 @@ Things I am using
 
 ## Hardware
 
-- MacBook Pro 16' 2,6 GHz Intel 16 Go
+- MacBook Pro 14' Apple M2 Pro 16 Go
 - Monitor: BenQ PD2500Q 25'
 - Mouse: Logitech MX Master 3
 - Keyboard: Mx Keys
